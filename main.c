@@ -7,7 +7,7 @@
 /*  DATE        :Aug 5, 2012	                                       */
 /*																	   */
 /*  DESCRIPTION : This function contains the main function for this    */
-/*					program 										   */
+/*					project.  										   */
 /*																	   */
 /*  CPU GROUP   :62P                                                   */
 /*                                                                     */
