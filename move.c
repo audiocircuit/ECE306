@@ -1,0 +1,19 @@
+void BOTH_WHEELS_OFF(void)
+{
+	//p3_0
+		LEFT_FORWARD = OFF;
+		
+	//p3_1 LEFT REVERSE
+		LEFT_REVERSE = OFF;
+	
+	//
+		
+}
+
+LEFT_WHEEL_FORWARD(void)
+{
+	//p3_0 == LEFT_FORWARD
+	LEFT_FORWARD = ON;
+
+}
+
